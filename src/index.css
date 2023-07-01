@@ -13,6 +13,7 @@ html {
   width: 100%;
   height: 100%;
   overflow-x: hidden;
+   margin-bottom: 300px;
 }
 
 body {
@@ -20,6 +21,7 @@ body {
   height: 100%;
   font-family: "Roboto", sans-serif;
   background-color: #f7f7f7;
+ 
 }
 
 .container {
